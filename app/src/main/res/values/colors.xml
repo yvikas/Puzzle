@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="puzzle_lines">#808080</color>
+    <color name="puzzle_backdrop">#F5F5F5</color>
+    <color name="puzzle_numericcolor">#ff000000</color>
+    <color name="blue">#770000ff</color>
+    <color name="solid_blue">#0000ff</color>
+    <color name="false_color">#696969ff</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+</resources>

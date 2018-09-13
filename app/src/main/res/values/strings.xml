@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Puzzle Game </string>
+    <string name="Main_title">Shikaku Puzzle</string>
+    <string name="New_Game_label">New Game</string>
+    <string name="Resume_label">Resume</string>
+    <string name="Scoreboard_label">Scoreboard</string>
+    <string name="Exit_label">Exit</string>
+    <string name="About_label">About</string>
+    <string name="about_title">About Shikaku</string>
+    <string name="about_text">\
+    Shikaku is a puzzle game.
+    </string>
+    <string name="New_Game_title">Difficulty Level Selector</string>
+    <string name="Novice_label">Novice</string>
+    <string name="Medium_label">Medium</string>
+    <string name="Expert_label">Expert</string>
+    <string name="game_title">Shikaku Puzzle</string>
+</resources>

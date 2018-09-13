@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/Timer"
+        android:actionLayout="@layout/timer_view"
+        android:menuCategory="container"
+        android:showAsAction="always|withText"
+        android:title="0">
+    </item>
+    <item android:id="@+id/menu" android:actionLayout="@layout/menu_spinner" android:showAsAction="always|collapseActionView" android:title="Menu"></item>
+
+</menu>
